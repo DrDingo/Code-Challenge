@@ -1,0 +1,25 @@
+a {
+	text-decoration: none;
+}
+
+/* site body */
+body {
+  background-color: blue;
+  color: #fff;
+}
+
+/* green header */
+header {
+  background: black;
+  border-color: black;
+}
+
+/* nav background on mobile */
+nav {
+  background:;
+}
+
+/* logo text */
+h1, h2 {
+  color: ;
+}
